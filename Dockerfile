@@ -1,4 +1,4 @@
-FROM bash:alpine3.21
+FROM bash:alpine3.22
 
 COPY run.sh ./run.sh
 
